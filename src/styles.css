@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+.line {
+    fill: none;
+    stroke: #0093D1;
+    stroke-width: 1px;
+    stroke-dasharray: '385 385';
+    stroke-dashoffset: 385;
+    shape-rendering: geometricPrecision;
+}
+
+/* Style the dots by assigning a fill and stroke */
+
+.dot {
+    fill: #0093D1;
+    stroke: #0093D1;
+    shape-rendering: geometricPrecision;
+}
+
+
+
+div.tooltip {
+    visibility: hidden;
+    padding-bottom: .5em;
+    position: absolute;
+    width: 10em;
+    height: 5em;
+    color: #0093D1;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    -webkit-box-shadow: 6px 6px 13px 0px rgba(173, 171, 173, 0.87);
+    -moz-box-shadow: 6px 6px 13px 0px rgba(173, 171, 173, 0.87);
+    box-shadow: 6px 6px 13px 0px rgba(173, 171, 173, 0.87);
+
+}
+.tooltip p {
+    text-align: center;
+}
+
+.tooltip h4 {
+    text-align: center;
+}
+
+
+.noUi-connect {
+    background: #4682b4 !important;
+}

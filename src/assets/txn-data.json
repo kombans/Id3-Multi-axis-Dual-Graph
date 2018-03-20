@@ -1,0 +1,1009 @@
+[
+    {
+        "date": "7/12/2017",
+        "close": 45.46,
+        "predicted": 45.45800018,
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/13/2017",
+        "close": 46.1,
+        "predicted": 45.07045746,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/14/2017",
+        "close": 46.68,
+        "predicted": 45.66384125,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/17/2017",
+        "close": 46.0,
+        "predicted": 46.36948395,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/18/2017",
+        "close": 46.25,
+        "predicted": 45.73146057,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/19/2017",
+        "close": 47.09,
+        "predicted": 46.01445389,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/20/2017",
+        "close": 46.73,
+        "predicted": 46.98296738,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/21/2017",
+        "close": 45.6,
+        "predicted": 46.56425476,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/24/2017",
+        "close": 46.48,
+        "predicted": 45.30980682,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/25/2017",
+        "close": 48.55,
+        "predicted": 46.3690033,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/26/2017",
+        "close": 48.72,
+        "predicted": 48.63367081,
+        "trend": "hold",
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/27/2017",
+        "close": 49.15,
+        "predicted": 48.59123993,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/28/2017",
+        "close": 49.79,
+        "predicted": 49.04040146,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "7/31/2017",
+        "close": 50.17,
+        "predicted": 49.81455231,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/1/2017",
+        "close": 48.79,
+        "predicted": 50.25915527,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/2/2017",
+        "close": 49.61,
+        "predicted": 48.77239609,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/3/2017",
+        "close": 48.93,
+        "predicted": 49.78225327,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/4/2017",
+        "close": 49.52,
+        "predicted": 49.06006622,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/7/2017",
+        "close": 49.31,
+        "predicted": 49.61475754,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/8/2017",
+        "close": 48.96,
+        "predicted": 49.24581909,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/9/2017",
+        "close": 49.7,
+        "predicted": 48.9350853,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/10/2017",
+        "close": 48.51,
+        "predicted": 49.70009232,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/11/2017",
+        "close": 48.79,
+        "predicted": 48.47702026,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/14/2017",
+        "close": 47.5,
+        "predicted": 48.83836746,
+        
+        
+        
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/15/2017",
+        "close": 47.71,
+        "predicted": 47.39707184,
+        
+        "balance": 47.54999999999821,
+        "stock": 2095,
+        "profit": 0.0,
+        "action": "buy"
+    },
+    {
+        "date": "8/16/2017",
+        "close": 46.77,
+        "predicted": 47.66056824,
+        
+        "balance": 47.54999999999821,
+        "stock": 2095,
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/17/2017",
+        "close": 46.93,
+        "predicted": 46.49584961,
+        
+        "balance": 47.54999999999821,
+        "stock": 2095,
+        "profit": 0.0,
+        "action": "hold"
+    },
+    {
+        "date": "8/18/2017",
+        "close": 48.73,
+        "predicted": 46.62551117,
+        
+        
+        
+        "profit": 2136.8999999999937,
+        "action": "sell"
+    },
+    {
+        "date": "8/21/2017",
+        "close": 47.4,
+        "predicted": 48.44587326,
+        
+        
+        
+        "profit": 2136.8999999999937,
+        "action": "hold"
+    },
+    {
+        "date": "8/22/2017",
+        "close": 47.65,
+        "predicted": 46.91498184,
+        
+        "balance": 30.30000000000298,
+        "stock": 2098,
+        "profit": 2136.8999999999937,
+        "action": "buy"
+    },
+    {
+        "date": "8/23/2017",
+        "close": 48.37,
+        "predicted": 47.17559052,
+        
+        "balance": 30.30000000000298,
+        "stock": 2098,
+        "profit": 2136.8999999999937,
+        "action": "hold"
+    },
+    {
+        "date": "8/24/2017",
+        "close": 47.62,
+        "predicted": 48.09222794,
+        
+        "balance": 30.30000000000298,
+        "stock": 2098,
+        "profit": 2136.8999999999937,
+        "action": "hold"
+    },
+    {
+        "date": "8/25/2017",
+        "close": 47.86,
+        "predicted": 47.33936691,
+        
+        
+        
+        "profit": 2577.479999999996,
+        "action": "sell"
+    },
+    {
+        "date": "8/28/2017",
+        "close": 46.81,
+        "predicted": 47.50943375,
+        
+        
+        
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "8/29/2017",
+        "close": 46.32,
+        "predicted": 46.48849106,
+        
+        
+        
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "8/30/2017",
+        "close": 45.97,
+        "predicted": 46.01605606,
+        
+        
+        
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "8/31/2017",
+        "close": 47.09,
+        "predicted": 45.62205124,
+        
+        "balance": 27.929999999992763,
+        "stock": 2123,
+        "profit": 2577.479999999996,
+        "action": "buy"
+    },
+    {
+        "date": "9/1/2017",
+        "close": 47.35,
+        "predicted": 46.70907593,
+        
+        "balance": 27.929999999992763,
+        "stock": 2123,
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "9/5/2017",
+        "close": 48.62,
+        "predicted": 46.85476685,
+        
+        "balance": 27.929999999992763,
+        "stock": 2123,
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "9/6/2017",
+        "close": 49.15,
+        "predicted": 48.10834885,
+        
+        "balance": 27.929999999992763,
+        "stock": 2123,
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "9/7/2017",
+        "close": 49.11,
+        "predicted": 48.72356796,
+        "trend": "hold",
+        "balance": 27.929999999992763,
+        "stock": 2123,
+        "profit": 2577.479999999996,
+        "action": "hold"
+    },
+    {
+        "date": "9/8/2017",
+        "close": 47.56,
+        "predicted": 48.80409241,
+        
+        
+        
+        "profit": 3575.289999999993,
+        "action": "sell"
+    },
+    {
+        "date": "9/11/2017",
+        "close": 48.1,
+        "predicted": 47.3023262,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "buy"
+    },
+    {
+        "date": "9/12/2017",
+        "close": 48.37,
+        "predicted": 48.05655289,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/13/2017",
+        "close": 49.32,
+        "predicted": 48.33974838,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/14/2017",
+        "close": 49.72,
+        "predicted": 49.20949173,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/15/2017",
+        "close": 49.83,
+        "predicted": 49.51096725,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/18/2017",
+        "close": 49.93,
+        "predicted": 49.70434189,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/19/2017",
+        "close": 49.86,
+        "predicted": 49.91541672,
+        "trend": "hold",
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/20/2017",
+        "close": 50.29,
+        "predicted": 49.96462631,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/21/2017",
+        "close": 50.74,
+        "predicted": 50.48156357,
+        
+        "balance": 0.09999999999704556,
+        "stock": 2079,
+        "profit": 3575.289999999993,
+        "action": "hold"
+    },
+    {
+        "date": "9/22/2017",
+        "close": 50.66,
+        "predicted": 50.88682938,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "sell"
+    },
+    {
+        "date": "9/25/2017",
+        "close": 52.13,
+        "predicted": 50.73479843,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "9/26/2017",
+        "close": 52.09,
+        "predicted": 52.18751526,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "9/27/2017",
+        "close": 52.03,
+        "predicted": 52.05121613,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "9/28/2017",
+        "close": 51.59,
+        "predicted": 51.96345139,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "9/29/2017",
+        "close": 51.64,
+        "predicted": 51.60169983,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/2/2017",
+        "close": 50.57,
+        "predicted": 51.8081665,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/3/2017",
+        "close": 50.18,
+        "predicted": 50.69138718,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/4/2017",
+        "close": 49.9,
+        "predicted": 50.35328293,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/5/2017",
+        "close": 50.75,
+        "predicted": 50.10046387,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/6/2017",
+        "close": 49.25,
+        "predicted": 50.90964127,
+        
+        
+        
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/9/2017",
+        "close": 49.56,
+        "predicted": 49.02103424,
+        
+        "balance": 37.47999999999541,
+        "stock": 2017,
+        "profit": 8897.529999999984,
+        "action": "buy"
+    },
+    {
+        "date": "10/10/2017",
+        "close": 50.94,
+        "predicted": 49.37299728,
+        
+        "balance": 37.47999999999541,
+        "stock": 2017,
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/11/2017",
+        "close": 51.02,
+        "predicted": 50.88502884,
+        "trend": "hold",
+        "balance": 37.47999999999541,
+        "stock": 2017,
+        "profit": 8897.529999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/12/2017",
+        "close": 50.74,
+        "predicted": 50.85642624,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "sell"
+    },
+    {
+        "date": "10/17/2017",
+        "close": 51.88,
+        "predicted": 50.43762207,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/18/2017",
+        "close": 52.04,
+        "predicted": 52.42516327,
+        "trend": "hold",
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/19/2017",
+        "close": 51.29,
+        "predicted": 51.97850800000001,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/20/2017",
+        "close": 51.47,
+        "predicted": 51.12856293,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/23/2017",
+        "close": 51.9,
+        "predicted": 51.48983002,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/24/2017",
+        "close": 52.47,
+        "predicted": 52.14214325,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/25/2017",
+        "close": 52.18,
+        "predicted": 52.60637283,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/26/2017",
+        "close": 52.64,
+        "predicted": 52.21386337,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/27/2017",
+        "close": 53.9,
+        "predicted": 52.72072601,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/30/2017",
+        "close": 54.15,
+        "predicted": 53.98624039,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "10/31/2017",
+        "close": 54.38,
+        "predicted": 54.12881851,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/1/2017",
+        "close": 54.3,
+        "predicted": 54.30613327,
+        "trend": "hold",
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/2/2017",
+        "close": 54.54,
+        "predicted": 54.31916046,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/3/2017",
+        "close": 55.64,
+        "predicted": 54.6611824,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/6/2017",
+        "close": 57.35,
+        "predicted": 55.71464539,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/7/2017",
+        "close": 57.2,
+        "predicted": 57.29498291,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/8/2017",
+        "close": 56.81,
+        "predicted": 56.87335205,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/9/2017",
+        "close": 57.17,
+        "predicted": 56.51023865,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/10/2017",
+        "close": 56.74,
+        "predicted": 57.06126022,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/13/2017",
+        "close": 56.76,
+        "predicted": 56.63467407,
+        "trend": "hold",
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/14/2017",
+        "close": 55.7,
+        "predicted": 56.60982132,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/15/2017",
+        "close": 55.33,
+        "predicted": 55.43891907,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/16/2017",
+        "close": 55.14,
+        "predicted": 55.18180847,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/17/2017",
+        "close": 56.55,
+        "predicted": 54.98287582,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/20/2017",
+        "close": 56.09,
+        "predicted": 56.38819504,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/21/2017",
+        "close": 56.83,
+        "predicted": 55.69747162,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/22/2017",
+        "close": 58.02,
+        "predicted": 56.50114441,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/23/2017",
+        "close": 58.38,
+        "predicted": 57.71136475,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/24/2017",
+        "close": 58.95,
+        "predicted": 58.08158112,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/26/2017",
+        "close": 58.88,
+        "predicted": 58.62016296,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/27/2017",
+        "close": 58.11,
+        "predicted": 58.60694885,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/28/2017",
+        "close": 57.99,
+        "predicted": 57.9420929,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/29/2017",
+        "close": 57.3,
+        "predicted": 57.93148422,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "11/30/2017",
+        "close": 57.4,
+        "predicted": 57.25797272,
+        
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    },
+    {
+        "date": "12/1/2017",
+        "close": 58.36,
+        "predicted": 57.35560226,
+        "trend": "hold",
+        
+        
+        "profit": 11277.589999999984,
+        "action": "hold"
+    }
+]

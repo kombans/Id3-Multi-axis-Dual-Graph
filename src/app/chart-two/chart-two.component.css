@@ -1,0 +1,16 @@
+#body {
+    font: 12px ; 
+    font-family: "Palatino";
+  }
+
+h1 {
+    margin-left: 500px;
+  font-family:"Georgia";
+  }
+#dates{
+    font-family:"Algerian";
+    text-anchor: middle;
+  }  
+  svg {
+    border:1px solid black;
+  }

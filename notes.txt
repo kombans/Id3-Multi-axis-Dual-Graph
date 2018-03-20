@@ -1,0 +1,40 @@
+    this.maximum = Math.ceil(Math.max.apply(Math, data.map(function (o) { return o['close']; })));
+      this.minimum = Math.floor(Math.min.apply(Math, data.map(function (o) { return o['close']; }))) - 2;
+
+
+      this.j = d3.scaleTime().domain(d3.extent(this.oilPrice, function (d) { return d.date; }))
+        .range([0, this.width]);
+
+
+      const xScale = d3.scaleLinear()
+        .domain([0, this.oilPrice.length - 1])
+        .range([0, this.width]);
+
+      const yScale = d3.scaleLinear()
+        .domain([this.minimum, this.maximum])
+        .range([this.height, 0]);
+
+
+      const line = d3.line()
+        .x(function (d, i) { return xScale(i); })
+        .y(function (d) { return yScale(d[1]); });
+
+
+      const svg = d3.select('#line-chart').append('svg')
+        .attr('width', this.width + this.margin.left + this.margin.right)
+        .attr('height', this.height + this.margin.top + this.margin.bottom)
+        .append('g')
+        .attr('transform',
+          'translate(' + this.margin.left + ',' + this.margin.top + ')');
+
+
+      // Scale the range of the data
+      xScale.domain(data.map(function (d: Price) { return d.date; }));
+      yScale.domain(data.map(function (d: Price) { return d.close; }));
+
+      // Add the valueline path.
+      svg.append('path')
+        .data([data])
+        .attr('class', 'line')
+        .style('stroke', 'steelblue')
+        .attr('d', line);
